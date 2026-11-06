@@ -108,7 +108,5 @@ Conjunto de barras de **acero corrugado (hierro nervado)** cortadas a igual long
 ## ✍️ Autoría
 
 Trabajo realizado en el marco del taller de **fotografía forense aplicada a la ingeniería**.
-Autor/a:
+Autor/a: ALIAGA Tomas, COSTARELLI Bernardo, LA MOTTA Franco, MATALONI Sabrina, SIRACUSA Juan Pablo
 ````
-
-Si querés, puedo adaptarlo en inglés, acortarlo o ajustar la estructura de carpetas a la de tu repositorio.
