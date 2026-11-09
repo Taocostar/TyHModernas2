@@ -112,5 +112,5 @@ La diferencia es menor que la incertidumbre del método (error de georreferencia
 
 ## Autores y licencia
 
-- Autor: Juan Bernardo Costarelli
+- Autor: ALIAGA Tomas, COSTARELLI Bernardo, LA MOTTA Franco, MATALONI Sabrina, SIRACUSA Juan Pablo
 - Institución: Universidad Nacional de Cuyo, Facultad de Ingeniería
